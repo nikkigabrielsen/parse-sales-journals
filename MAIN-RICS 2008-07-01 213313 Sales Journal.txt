@@ -1,0 +1,191 @@
+TORICS - Sales Journal                   W2307/1/2008  09:33 PM  MAIN           
+NP1
+T11
+T2
+D @@CON
+D Store 1 - TAF - HAVRE Batch started 07/01/2008 12:23 PM   User MAIN Terminal type W
+D 
+H @@BON                                                        !- Qtys -! !----- Unit Amounts ------!          !---------- Extended Amounts ------------!@@BOF
+H @@BON@@UONTick# Slsp -------- SKU --------                         Sold  Ret   Retail    Price Unmatched    Perks   Markdown  Returned   Net Sale       Cost  GP %     Other                         Total  Tender                  @@UOF@@BOF
+D  
+D          S A L E S   T O T A L S                            0    0                                  .00        .00       .00       0.00       0.00     0       .00      .00      .00         .00                                      
+D @@COF
+D 
+D --------------- Transaction Totals ---------------
+D                         Net Sales            Total     ------- Tender Totals -------
+D Regular                      0.00             0.00     Cash                     0.00
+D                              0.00             0.00     Less payouts             0.00
+D S.O. Sale                    0.00             0.00     Over/Short               0.00
+D Layaway                      0.00             0.00                  ================
+D                  ================ ================     Cash Deposit             0.00
+D Total Sales                  0.00             0.00
+D 
+D Gift Cert. sold                               0.00
+D Payment/Account                               0.00
+D S.O. Deposit                                  0.00
+D Payment/Layaway                               0.00
+D 
+D ------------------ Void Summary ------------------
+D Number of Tickets                                0
+D Amount                                        0.00
+D % of Net Sales                              ------
+D 
+D 
+D 
+NP2
+T12
+T2
+D @@CON
+D Store 1 - TAF - HAVRE Batch started 07/01/2008 10:12 AM   User POS Terminal type W
+D 
+H @@BON                                                        !- Qtys -! !----- Unit Amounts ------!          !---------- Extended Amounts ------------!@@BOF
+H @@BON@@UONTick# Slsp -------- SKU --------                         Sold  Ret   Retail    Price Unmatched    Perks   Markdown  Returned   Net Sale       Cost  GP %     Other                         Total  Tender                  @@UOF@@BOF
+D   372 2    Regular     265-7404 - Lynn Ward                                                                                                                                                                                           
+D       2    5359-SLBN       TIMBERLINE           7.5         1    0    64.99    64.99                .00        .00       .00      64.99      31.20    52                                                                              
+D       2    10002-610       BEACH                M           1    0    29.99    29.99                .00        .00       .00      29.99      15.00    50                                                                              
+D                                            Totals           2    0                                  .00        .00       .00      94.98      46.20    51       .00      .00      .00       94.98  MC/VISA            94.98            
+D ----------------------------------------------- 10:12 AM
+D   373 2    Regular     265-6058 - Kare Lien                                                                                                                                                                                           
+D       2    7317M           MANTRA               9           1    0    89.99    89.99                .00        .00       .00      89.99      48.51    46       .00      .00      .00       89.99  Debit Card         89.99            
+D ----------------------------------------------- 10:34 AM
+D   374 2    Regular                                                                                                                                                                                                                    
+D       2    M-5099 MT       MT GRIZ 9" SHORT     XL          1    0    22.99    22.99                .00        .00       .00      22.99      11.50    50                                                                              
+D       2    11V-Q MT        MT-EVOLUTION SHORTS  M           1    0    24.99    24.99                .00        .00       .00      24.99      12.50    50                                                                              
+D                                            Totals           2    0                                  .00        .00       .00      47.98      24.00    50       .00      .00      .00       47.98  Cash               60.00            
+D ----------------------------------------------- 10:38 AM
+D   375 2    Regular                                                                                                                                                                                                                    
+D       2    8212-NAVY       NEWPORT H2           8           1    0    44.99    44.99                .00        .00       .00      44.99      21.92    51       .00      .00      .00       44.99  Check              44.99            
+D ----------------------------------------------- 11:45 AM
+D   376 2    Regular                                                                                                                                                                                                                    
+D       2    C0002           TODDLER 4-6 QTR 3PAK             1    0     9.99     9.99                .00        .00       .00       9.99       1.93    81       .00      .00      .00        9.99  Cash               20.00            
+D ----------------------------------------------- 11:47 AM
+D   377 2    Regular                                                                                                                                                                                                                    
+D       2    10027-543         K ATHENS           C8C9        1    0    24.99    24.99                .00        .00       .00      24.99      12.50    50                                                                              
+D       2    RF002307HPW     REEF SANDAL          11          1    0     7.99     7.99                .00        .00       .00       7.99       4.00    50                                                                              
+D                                            Totals           2    0                                  .00        .00       .00      32.98      16.50    50       .00      .00      .00       32.98  Debit Card         32.98            
+D ----------------------------------------------- 12:02 PM
+D   378 2    Regular     357-2795 - Jenni Pula                                                                                                                                                                                          
+D       2    10002-1         PRO GRID TRIUMPH 5   10          1    0   119.99   119.99                .00        .00       .00     119.99      64.02    47       .00      .00      .00      119.99  Check             119.99            
+D ----------------------------------------------- 12:55 PM
+D   379 2    Regular     265-2858 - jacob crebs                                                                                                                                                                                         
+D       2    4204000051-004  FLATS                10          1    0    14.99    14.99                .00        .00       .00      14.99       7.20    52                                                                              
+D       2    4204000043-535  CHULA II             10          1    0    10.99    10.99                .00        .00       .00      10.99       5.28    52                                                                              
+D       2    4204000043-448  CHULA II             7           1    0    10.99    10.99                .00        .00       .00      10.99       5.28    52                                                                              
+D                                            Totals           3    0                                  .00        .00       .00      36.97      17.76    52       .00      .00      .00       36.97  Cash               50.00            
+D ----------------------------------------------- 01:23 PM
+D   380 2    Regular                                                                                                                                                                                                                    
+D       2    D168MWWR        TRIFECTA             11          1    0    64.99    64.99                .00        .00       .00      64.99      32.17    51       .00      .00      .00       64.99  Cash               80.00            
+D ----------------------------------------------- 01:52 PM
+D   381 2    Regular     265-5780 - Bryden Vukasin                                                                                                                                                                                      
+D       2    669163          SUPERSTAR 2G         12.5        1    0    69.99    69.99                .00        .00       .00      69.99      33.50    52       .00      .00      .00       69.99  MC/VISA            69.99            
+D ----------------------------------------------- 01:56 PM
+NP3
+T13
+T2
+D @@CON
+D Store 1 - TAF - HAVRE Batch started 07/01/2008 10:12 AM   User POS Terminal type W
+D 
+H @@BON                                                        !- Qtys -! !----- Unit Amounts ------!          !---------- Extended Amounts ------------!@@BOF
+H @@BON@@UONTick# Slsp -------- SKU --------                         Sold  Ret   Retail    Price Unmatched    Perks   Markdown  Returned   Net Sale       Cost  GP %     Other                         Total  Tender                  @@UOF@@BOF
+D   382 2    Regular     265-5596 - Tim Munyan                                                                                                                                                                                          
+D       2    RF002597BBY     REEF SANDAL          10          1    0    44.99    44.99                .00        .00       .00      44.99      23.00    49       .00      .00      .00       44.99  MC/VISA            44.99            
+D ----------------------------------------------- 03:11 PM
+D   383 2    Regular                                                                                                                                                                                                                    
+D       2    919868          TROVAO               6           1    0    34.99    34.99                .00        .00       .00      34.99      19.25    45       .00      .00      .00       34.99  Cash               50.00            
+D ----------------------------------------------- 03:14 PM
+D   384 2    Regular                                                                                                                                                                                                                    
+D       2    4304000007-683  KIDS CHULA II        6           1    0     8.99     8.99                .00        .00       .00       8.99       4.32    52       .00      .00      .00        8.99  Cash               10.00            
+D ----------------------------------------------- 04:16 PM
+D   385 2    Regular                                                                                                                                                                                                                    
+D       2    71812           HUDSON               14          1    0    79.99    54.98                .00      25.01       .00      54.98      42.50    23       .00      .00      .00       54.98  MC/VISA            54.98            
+D ----------------------------------------------- 05:03 PM
+D   386 7    Regular                                                                                                                                                                                                                    
+D       7    A29115          CHICAGO WT SOX 7 1/2 712         1    0    31.99    31.99                .00        .00       .00      31.99      15.50    52       .00      .00      .00       31.99  Cash               35.00            
+D ----------------------------------------------- 05:11 PM
+D   387 7    Regular     395-5956 - Michel Mithlo                                                                                                                                                                                       
+D       7    D463YW          DOWNTOWN LOW CUB CIT 3           1    0    35.99    35.99                .00        .00       .00      35.99      18.00    50       .00      .00      .00       35.99  Cash               40.00            
+D ----------------------------------------------- 07:47 PM
+D  
+D          S A L E S   T O T A L S                           21    0                                  .00      25.01       .00     824.78     429.08    48       .00      .00      .00      824.78                                      
+D  
+D                   O V E R   /   S H O R T                                                                                                                                                                                 -0.27       
+NP4
+T14
+T2
+D @@CON
+D Store 1 - TAF - HAVRE Batch started 07/01/2008 10:12 AM   User POS Terminal type W
+D 
+H @@BON                                                        !- Qtys -! !----- Unit Amounts ------!          !---------- Extended Amounts ------------!@@BOF
+H @@BON@@UONTick# Slsp -------- SKU --------                         Sold  Ret   Retail    Price Unmatched    Perks   Markdown  Returned   Net Sale       Cost  GP %     Other                         Total  Tender                  @@UOF@@BOF
+D @@COF
+D 
+D --------------- Transaction Totals ---------------
+D                         Net Sales            Total     ------- Tender Totals -------
+D Regular                    824.78           824.78     Cash                   271.89
+D                              0.00             0.00     Check                  164.98
+D S.O. Sale                    0.00             0.00     MC/VISA                264.94
+D Layaway                      0.00             0.00     Debit Card             122.97
+D                  ================ ================     Less payouts             0.00
+D Total Sales                824.78           824.78     Drawer In   200.00
+D                                                        Drawer Out  200.00
+D Gift Cert. sold                               0.00     Drawer Diff              0.00
+D Payment/Account                               0.00     Over/Short              -0.27
+D S.O. Deposit                                  0.00                  ================
+D Payment/Layaway                               0.00     Cash Deposit           824.51
+D 
+D ------------------ Void Summary ------------------
+D Number of Tickets                                0
+D Amount                                        0.00
+D % of Net Sales                              ------
+D 
+D 
+D 
+NP5
+T15
+T2
+D @@CON
+D Store 1 - TAF - HAVRE day total for 07/01/2008
+D 
+H @@BON                                                        !- Qtys -! !----- Unit Amounts ------!          !---------- Extended Amounts ------------!@@BOF
+H @@BON@@UONTick# Slsp -------- SKU --------                         Sold  Ret   Retail    Price Unmatched    Perks   Markdown  Returned   Net Sale       Cost  GP %     Other                         Total  Tender                  @@UOF@@BOF
+D  
+D          S A L E S   T O T A L S                           21    0                                  .00      25.01       .00     824.78     429.08    48       .00      .00      .00      824.78                                      
+D @@COF
+D 
+D --------------- Transaction Totals ---------------
+D                         Net Sales            Total     ------- Tender Totals -------
+D Regular                    824.78           824.78     Cash                   271.89
+D                              0.00             0.00     Check                  164.98
+D S.O. Sale                    0.00             0.00     MC/VISA                264.94
+D Layaway                      0.00             0.00     Debit Card             122.97
+D                  ================ ================     Less payouts             0.00
+D Total Sales                824.78           824.78     Over/Short              -0.27
+D                                                                     ================
+D Gift Cert. sold                               0.00     Cash Deposit           824.51
+D Payment/Account                               0.00
+D S.O. Deposit                                  0.00
+D Payment/Layaway                               0.00
+D 
+D ------------------ Void Summary ------------------
+D Number of Tickets                                0
+D Amount                                        0.00
+D % of Net Sales                              ------
+D 
+D 
+D 
+D @@COF
+D @@BON16 tickets printed@@BOF
+D @@BON16 tickets on file@@BOF
+NP6
+T16
+T2
+D @@CON
+H @@BON@@BOF
+H @@BON@@UONStore                    SalesPerson               Time In              Time Out             Total Time Non-Sales Reversed Clocked in by             Actual Time In       Clocked Out by            Actual Time Out     @@UOF@@BOF
+D   1 TAF - HAVRE          2    BILL                 07/01/2008 10:05     07/01/2008 17:08           7.05                                                                                                                               
+D                          7    JAKE                 07/01/2008 16:59     07/01/2008 21:16           4.28                                                                                                                               
+D                                                                             Store   1 Totals      11.33                                                                                                                               
+D  
+D @@COF
+D @@BON     2 of 2 time clock records in the file were used@@BOF
+D @@BONElapsed Time : 0 seconds@@BOF
